@@ -1,0 +1,14 @@
+{
+    "type":"bui",
+    "tag":"UI", 
+    "name":"bui-temp1",
+    "displayname":"仿微信weui",
+    "desc":"BUI官方出品",
+    "version":"0.4.0",
+    "url":"https://gitlab.bingosoft.net/linkide/bui-temp1.git",
+    "author":"王伟深",
+    "email":"wangws@bingosoft.net",
+    "homepage":"",
+    "snapshot":["screen01.jpg"],
+    "official":true
+ }

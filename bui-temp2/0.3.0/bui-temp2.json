@@ -1,0 +1,14 @@
+{
+    "type":"bui",
+    "tag":"主题推广", 
+    "name":"bui-temp2",
+    "displayname":"高考推广",
+    "desc":"BUI官方出品",
+    "version":"0.3.0",
+    "url":"https://gitlab.bingosoft.net/linkide/bui-temp2.git",
+    "author":"王伟深",
+    "email":"wangws@bingosoft.net",
+    "homepage":"",
+    "snapshot":["screen01.jpg"],
+    "official":true
+ }

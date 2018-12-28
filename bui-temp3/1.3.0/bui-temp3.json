@@ -1,0 +1,14 @@
+{
+    "type":"bui",
+    "tag":"新闻类", 
+    "name":"bui-temp3",
+    "displayname":"网易新闻",
+    "desc":"BUI官方出品",
+    "version":"1.3.0",
+    "url":"https://gitlab.bingosoft.net/linkide/bui-temp3.git",
+    "author":"王伟深",
+    "email":"wangws@bingosoft.net",
+    "homepage":"",
+    "snapshot":["screen01.jpg","screen02.jpg","screen03.jpg","screen04.jpg","screen05.jpg","screen06.jpg"],
+    "official":true
+ }

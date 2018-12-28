@@ -1,0 +1,15 @@
+{
+    "type":"bui",
+    "tag":"UI", 
+    "name":"bui-template",
+    "displayname":"空模版",
+    "desc":"BUI官方出品标准空模版",
+    "version":"1.0.0",
+    "url":"https://gitlab.bingosoft.net/linkide/bui-template.git",
+    "author":"王伟深",
+    "email":"wangws@bingosoft.net",
+    "homepage":"",
+    "snapshot":[],
+    "default":true,
+    "official":true
+ }
